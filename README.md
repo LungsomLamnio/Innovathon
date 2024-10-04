@@ -12,4 +12,4 @@
 		  C_lane is the congestion level of specific lane
  		  C_total is the total congestion all lanes.
 
-# The traffic lights will change dynamically according to the calculated time allocations for each lane based on congestion levels.
+# The traffic lights will change dynamically according to the calculated time allocations for each lane based on congestion levels..
